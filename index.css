@@ -1,0 +1,114 @@
+.iphone-14-15-pro-max-1-child {
+  position: absolute;
+  top: 58px;
+  left: 29px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #fffbfb;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 352px;
+  height: 64px;
+}
+.iphone-14-15-pro-max-1-item {
+  position: absolute;
+  top: 310px;
+  left: 29px;
+  width: 352px;
+  height: 128px;
+}
+.iphone-14-15-pro-max-1-child1,
+.iphone-14-15-pro-max-1-inner,
+.rectangle-div {
+  position: absolute;
+  top: 248px;
+  left: 29px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #fffbfb;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 352px;
+  height: 64px;
+}
+.iphone-14-15-pro-max-1-child1,
+.rectangle-div {
+  top: 120px;
+}
+.iphone-14-15-pro-max-1-child1 {
+  top: 438px;
+}
+.track-kit {
+  position: absolute;
+  top: 140px;
+  left: 157px;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-1-child2,
+.rectangle-icon {
+  position: absolute;
+  top: 184px;
+  left: 29px;
+  width: 352px;
+  height: 64px;
+}
+.iphone-14-15-pro-max-1-child2 {
+  top: 502px;
+}
+.activities,
+.vaccine-details {
+  position: absolute;
+  top: 392px;
+  left: 122px;
+}
+.activities {
+  top: 204px;
+  left: 153px;
+  cursor: pointer;
+}
+.monthly-progress {
+  position: absolute;
+  top: 268px;
+  left: 122px;
+}
+.growth-monitoring {
+  position: absolute;
+  top: 330px;
+  left: 116px;
+}
+.dashboard,
+.resources {
+  position: absolute;
+  top: 78px;
+  left: 145px;
+}
+.resources {
+  top: 458px;
+  left: 153px;
+  cursor: pointer;
+}
+.group-icon,
+.profile {
+  position: absolute;
+  top: 522px;
+  left: 161px;
+}
+.group-icon {
+  height: 3%;
+  width: 5.46%;
+  top: 8.8%;
+  right: 72.71%;
+  bottom: 88.2%;
+  left: 21.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-1 {
+  position: relative;
+  background-color: #c2adad;
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

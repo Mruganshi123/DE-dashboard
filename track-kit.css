@@ -1,0 +1,157 @@
+.track-kit-child {
+  position: absolute;
+  top: 142px;
+  left: 408px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 624px;
+  height: 85px;
+}
+.track-kit-item {
+  position: absolute;
+  top: 534px;
+  left: 313px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.track-the-kit {
+  position: absolute;
+  top: 170px;
+  left: 621px;
+}
+.group-child1,
+.track-kit-inner {
+  position: absolute;
+  width: 724px;
+  height: 105px;
+}
+.group-child1 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+}
+.track-kit-inner {
+  top: 550px;
+  left: 445px;
+}
+.date-of-arrival {
+  position: absolute;
+  top: 31px;
+  left: 165px;
+}
+.ellipse-div,
+.group-div,
+.rectangle-parent,
+.track-kit-inner1 {
+  position: absolute;
+  top: 702px;
+  left: 448px;
+  width: 724px;
+  height: 105px;
+}
+.ellipse-div,
+.group-div,
+.track-kit-inner1 {
+  top: 828px;
+  left: 445px;
+}
+.ellipse-div,
+.track-kit-inner1 {
+  top: 969px;
+}
+.ellipse-div {
+  top: 566px;
+  left: 296px;
+  border-radius: 50%;
+  background-color: #5fa932;
+  width: 45px;
+  height: 45px;
+}
+.ellipse-icon,
+.track-kit-child1,
+.track-kit-child2 {
+  position: absolute;
+  top: 693px;
+  left: 296px;
+  width: 45px;
+  height: 45px;
+}
+.track-kit-child1,
+.track-kit-child2 {
+  top: 836px;
+}
+.track-kit-child2 {
+  top: 979px;
+}
+.line-div,
+.track-kit-child3,
+.track-kit-child4 {
+  position: absolute;
+  top: 601.5px;
+  left: 318.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 101px;
+}
+.track-kit-child3,
+.track-kit-child4 {
+  top: 735.5px;
+}
+.track-kit-child4 {
+  top: 880.5px;
+}
+.foodkit-1-icon {
+  position: absolute;
+  top: 566px;
+  left: calc(50% - 229px);
+  width: 117px;
+  height: 72px;
+  object-fit: cover;
+}
+.aug-23,
+.kit-granted {
+  position: absolute;
+  top: 580px;
+  left: 643px;
+}
+.aug-23 {
+  left: 1037px;
+}
+.foodkit-2-icon,
+.track-kit-child5 {
+  position: absolute;
+  top: 316px;
+  left: 564px;
+  width: 351px;
+  height: 176px;
+}
+.foodkit-2-icon {
+  top: 275px;
+  left: 640px;
+  width: 200px;
+  height: 117px;
+  object-fit: cover;
+}
+.type-of-kitdetails {
+  position: absolute;
+  top: 416px;
+  left: 601px;
+}
+.arrived-at-centre {
+  position: absolute;
+  top: 859px;
+  left: 600px;
+}
+.track-kit3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1319px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

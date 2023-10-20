@@ -1,0 +1,109 @@
+.resources-child {
+  position: absolute;
+  top: 106.5px;
+  left: 489px;
+  border-radius: var(--br-3xs);
+  width: 434px;
+  height: 94px;
+}
+.art-craft,
+.resoureces {
+  position: absolute;
+  top: 134px;
+  left: 622px;
+}
+.art-craft {
+  top: 186px;
+  left: 180px;
+  display: inline-block;
+  width: 331px;
+  height: 71px;
+}
+.resources-item {
+  position: absolute;
+  top: 243px;
+  left: 175px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 450px;
+  height: 186px;
+}
+.resources-child1,
+.resources-child2,
+.resources-inner {
+  position: absolute;
+  top: 543px;
+  left: 180px;
+  border-radius: var(--br-3xs);
+  width: 450px;
+  height: 187px;
+}
+.resources-child1,
+.resources-child2 {
+  left: 670px;
+}
+.resources-child2 {
+  top: 243px;
+  background-color: var(--color-gainsboro);
+  height: 186px;
+}
+.nutrition-enriched-healthy,
+.other-awarness-videos {
+  position: absolute;
+  top: 494px;
+  left: 180px;
+  display: inline-block;
+  width: 567px;
+  height: 49px;
+}
+.other-awarness-videos {
+  top: 793px;
+  left: 196px;
+  width: 416px;
+  height: 66px;
+}
+.group-inner {
+  background-color: var(--color-darkslategray-100);
+}
+.group-inner,
+.rectangle-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1459px;
+  height: 101px;
+}
+.dashboard4,
+.resources5 {
+  position: absolute;
+  top: 30px;
+  left: 905px;
+}
+.resources5 {
+  top: 32px;
+  left: 1127px;
+}
+.group-container,
+.log-out3 {
+  position: absolute;
+  top: 28px;
+  left: 1310px;
+}
+.group-container {
+  top: -8px;
+  left: 0;
+  width: 1459px;
+  height: 101px;
+  color: var(--color-white);
+}
+.resources4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1067px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

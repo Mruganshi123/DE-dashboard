@@ -1,0 +1,35 @@
+.group-item {
+  background-color: var(--color-darkslategray-100);
+}
+.group-item,
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1459px;
+  height: 101px;
+}
+.dashboard3 {
+  position: absolute;
+  top: 30px;
+  left: 905px;
+}
+.log-out2,
+.resources3 {
+  position: absolute;
+  top: 32px;
+  left: 1127px;
+}
+.log-out2 {
+  top: 28px;
+  left: 1310px;
+}
+.group-root {
+  position: relative;
+  width: 100%;
+  height: 101px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

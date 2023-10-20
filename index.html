@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="iphone-14-15-pro-max-1">
+      <div class="iphone-14-15-pro-max-1-child"></div>
+      <img
+        class="iphone-14-15-pro-max-1-item"
+        alt=""
+        src="./public/rectangle-5.svg"
+      />
+
+      <div class="iphone-14-15-pro-max-1-inner"></div>
+      <div class="rectangle-div"></div>
+      <div class="iphone-14-15-pro-max-1-child1"></div>
+      <div class="track-kit" id="trackKitText">track kit</div>
+      <img class="rectangle-icon" alt="" src="./public/rectangle-4.svg" />
+
+      <img
+        class="iphone-14-15-pro-max-1-child2"
+        alt=""
+        src="./public/rectangle-4.svg"
+      />
+
+      <div class="vaccine-details">vaccine details</div>
+      <div class="activities" id="activitiesText">activities</div>
+      <div class="monthly-progress">monthly progress</div>
+      <div class="growth-monitoring">Growth Monitoring</div>
+      <div class="dashboard">dashboard</div>
+      <div class="resources" id="resourcesText">resources</div>
+      <div class="profile">profile</div>
+      <img
+        class="group-icon"
+        alt=""
+        src="./public/group-2.svg"
+        id="groupIcon"
+      />
+    </div>
+
+    <script>
+      var trackKitText = document.getElementById("trackKitText");
+      if (trackKitText) {
+        trackKitText.addEventListener("click", function (e) {
+          window.location.href = "./track-kit.html";
+        });
+      }
+      
+      var activitiesText = document.getElementById("activitiesText");
+      if (activitiesText) {
+        activitiesText.addEventListener("click", function (e) {
+          window.location.href = "./desktop1.html";
+        });
+      }
+      
+      var resourcesText = document.getElementById("resourcesText");
+      if (resourcesText) {
+        resourcesText.addEventListener("click", function (e) {
+          window.location.href = "./resources.html";
+        });
+      }
+      
+      var groupIcon = document.getElementById("groupIcon");
+      if (groupIcon) {
+        groupIcon.addEventListener("click", function (e) {
+          window.location.href = "./dashboard.html";
+        });
+      }
+      </script>
+  </body>
+</html>
